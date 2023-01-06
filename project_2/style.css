@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.wrapper {
+    max-width: 1600px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.center {
+    margin-left: 177px;
+    margin-right: 182px;
+    width: 100%;
+    max-width: 1243px;
+}
