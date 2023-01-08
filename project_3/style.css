@@ -1,0 +1,89 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.container {
+    width: 1400px;
+    height: 900px;
+    margin: 0 auto;
+    background-color: #E3F8FA;
+}
+
+.wrapper {
+    width: 1348px;
+    height: 825px;
+    margin: 40px 12px 35px 40px;
+}
+
+.logo {
+    padding-top: 51px;
+    float: left;
+    margin-right: 156px;
+}
+
+ul {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    list-style-type: none;
+    padding-top: 50px;
+    margin: 0;
+}
+
+.menu {
+    float: left;
+    margin-right: 24px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.mainText {
+    margin-top: 292px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 94px;
+    max-width: 675px;
+}
+
+.circle {
+    width: 54px;
+    height: 54px;
+    border-radius: 50%;
+    background-color: #9BF4E9;
+    margin-top: 288px;
+    float: left;
+}
+
+.arrow {
+    padding: 18px 0 0 23px;
+}
+
+.footerText {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    margin-left: 220px;
+}
+
+.firstText {
+    float: left;
+    max-width: 300px;
+    opacity: 0.8;
+    margin-top: 288px;
+}
+
+.secondText {
+    float: left;
+    max-width: 300px;
+    margin-left: 30px;
+    opacity: 0.8;
+    margin-top: 270px;
+}
