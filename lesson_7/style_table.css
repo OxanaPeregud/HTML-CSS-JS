@@ -1,0 +1,45 @@
+table {
+    width: 50%;
+    border-spacing: 0;
+}
+
+h3 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h4 {
+    padding-left: 10px;
+}
+
+ul {
+    padding: 0 25px;
+}
+
+.mainImg {
+    float: left;
+    margin: 0 20px 5px 20px;
+}
+
+.mainText {
+    margin-left: 20px;
+}
+
+.firstCol {
+    width: 150px;
+    background: #F0E68C;
+}
+
+.secondCol {
+    background: url("images/ball.png") repeat-y right;
+}
+
+.title {
+    text-transform: uppercase;
+    color: #0000FF;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+    height: 40px;
+    background: #87CEFA;
+}
